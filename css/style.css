@@ -22,3 +22,7 @@ li { color: #036DA7; list-style-type: none; margin-bottom: 6px; }
 #footer a { color : #ddd; text-decoration: none; }
 .post-span {color:#ccc; font-size:12px;}
 .post-img{margin-top:10px;}
+.addBorder {
+  /* Thickness, Style, and Color */
+  border: 2px solid #000000;
+}
