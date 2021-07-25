@@ -25,4 +25,8 @@ li { color: #036DA7; list-style-type: none; margin-bottom: 6px; }
 .addBorder {
   /* Thickness, Style, and Color */
   border: 3px solid #000000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
