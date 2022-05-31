@@ -3,7 +3,7 @@ body { background: #F5F5F5 url(../img/background.png); font-family: 'Roboto Cond
 img { border: none;}
 a { color: #777; text-decoration: none;}
 a:hover { color: #555; text-decoration: none;}
-li { color: #000000; list-style-type: disc; margin-bottom: 6px; }
+li { color: #777; list-style-type: disc; margin-bottom: 6px; }
 #wrap { margin: 0 auto; width: 950px; background: #fff; }
 #header { height: 80px; background: #222; margin: 0 0 10px 0;}
 #header a { color: #fff; text-decoration: none;}
