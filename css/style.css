@@ -29,8 +29,10 @@ li { color: #777; list-style-type: disc; margin-bottom: 6px; }
   padding-left: 15%;
 }
 
+.customIndent3 {
+  padding-left: 20%;
+}
 
-.tab{margin-left:10%;}
 .post-span {color:#ccc; font-size:12px;}
 .post-img{margin-top:10px;}
 .addBorder {
